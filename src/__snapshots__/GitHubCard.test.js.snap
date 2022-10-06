@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="https://via.placeholder.com/150"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Garrison-Hinshaw
+    </div>
+    <p
+      className="card-text"
+    >
+      I am working on honing my skills as a software engineer and I like to golf in my free-time.
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      My Button
+    </button>
+  </div>
+</div>
+`;
